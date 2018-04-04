@@ -9,8 +9,8 @@ url: "http://www.xiaotaoyun.com" # the base hostname & protocol for your site, e
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: hunt.jpg # add your photo
+author: Paul # add your name
+author-img: hunt.jpeg # add your photo
 about-author: hunt or be hunted #I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
